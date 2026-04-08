@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-cicd-app",
+  "version": "1.0.0",
+  "description": "Simple CI/CD Node.js App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Matheesha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
